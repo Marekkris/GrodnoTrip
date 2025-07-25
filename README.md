@@ -1,4 +1,4 @@
-# flutter_application_2
+# GrodnoTrip
 
 A new Flutter project.
 
